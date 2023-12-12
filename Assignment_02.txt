@@ -1,0 +1,13 @@
+
+
+Question :
+
+Fire_Detector : https://docs.google.com/document/d/1SEprjrOlW_u39E2UbiGOPPGKb3-iAtIN8cmdV7TAsDY/edit?usp=sharing
+
+
+Data Set :
+
+Fire : https://drive.google.com/drive/folders/1dZfgbU0ouXzHsyTLWTv8qQfv6_hV4hjp?usp=sharing
+
+
+   {Deadline - 26th Nov}
